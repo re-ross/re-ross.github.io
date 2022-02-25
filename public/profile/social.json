@@ -1,0 +1,16 @@
+{
+    "social": [
+        {
+            "network" : "linkedin",
+            "href": "https://www.linkedin.com/in/re-ross/"
+        },
+        {
+            "network" : "github",
+            "href": "https://github.com/re-ross"
+        },
+        {
+            "network" : "email",
+            "href": "mailto:ryan@reross.com"
+        }
+    ]
+}
