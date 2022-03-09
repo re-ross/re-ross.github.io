@@ -1,0 +1,49 @@
+{
+    "projects" : [
+        {
+            "image" : "images/projects/Postify.png",
+            "title": "DevMountain Foundations Capstone",
+            "bodyText": "- Capstone Project: Mock Social Media \n - Made With Postgresql, Express, React, and Nestjs",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/re-ross/FoundationsCapstoneFinal"
+                }
+            ],
+            "tags" : [
+                "postgresql",
+                "express",
+                "react",
+                "nestjs"
+            ]
+        },
+        {
+            "image" : "images/projects/RecipeApp.png",
+            "title": "React Recipe App",
+            "bodyText": "- Recipe Fetching App\n - Utilizes Edamam API \n - Made With React",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/re-ross/ReactRecipeApp"
+                }
+            ],
+            "tags" : [
+                "React"
+            ]
+        },
+        {
+            "image" : "images/projects/Todo.png",
+            "title": "ToDo List",
+            "bodyText": "- ToDo List Tracking App\n - Made with React",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/re-ross/ReactProject-ToDoList"
+                }
+            ],
+            "tags" : [
+                "React"
+            ]
+        }
+    ]
+}
