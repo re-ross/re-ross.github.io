@@ -1,9 +1,25 @@
 {
   "projects": [
     {
+      "image": "images/projects/Financier.png",
+      "title": "Financier - Expense Tracking App",
+      "bodyText": "- Full Stack Application \n - Stack: MongoDB, Express, React, and nodeJS",
+      "links": [
+        {
+          "text": "GitHub",
+          "href": "https://github.com/re-ross/Financier"
+        },
+        {
+          "text": "Hosted Site",
+          "href": "https://reross-financier.herokuapp.com/"
+        }
+      ],
+      "tags": ["mongodb", "express", "react", "nestjs"]
+    },
+    {
       "image": "images/projects/Postify.png",
       "title": "DevMountain Foundations Capstone",
-      "bodyText": "- Capstone Project: Mock Social Media \n - Made With Postgresql, Express, React, and Nestjs",
+      "bodyText": "- Capstone Project: Mock Social Media \n - Stack: Postgresql, Express, React, and Nestjs",
       "links": [
         {
           "text": "GitHub",
@@ -15,7 +31,7 @@
     {
       "image": "images/projects/Postigram.png",
       "title": "Postigram - Photo Gallery App",
-      "bodyText": "- Photo Gallery\n - Made with React \n - Database created using Firebase",
+      "bodyText": "- Photo Gallery\n - Stack: React \n - Database created using Firebase",
       "links": [
         {
           "text": "GitHub",
@@ -31,7 +47,7 @@
     {
       "image": "images/projects/RecipeApp.png",
       "title": "React Recipe App",
-      "bodyText": "- Recipe Fetching App\n - Utilizes Edamam API \n - Made With React",
+      "bodyText": "- Recipe Fetching App\n - Utilizes Edamam API \n - Built to practice API calls",
       "links": [
         {
           "text": "GitHub",
@@ -43,7 +59,7 @@
     {
       "image": "images/projects/Todo.png",
       "title": "ToDo List",
-      "bodyText": "- ToDo List Tracking App\n - Made with React",
+      "bodyText": "- ToDo List Tracking App\n - Made to practice State Management",
       "links": [
         {
           "text": "GitHub",
