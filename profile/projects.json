@@ -55,18 +55,6 @@
         }
       ],
       "tags": ["React"]
-    },
-    {
-      "image": "images/projects/Todo.png",
-      "title": "ToDo List",
-      "bodyText": "- ToDo List Tracking App\n - Made to practice State Management",
-      "links": [
-        {
-          "text": "GitHub",
-          "href": "https://github.com/re-ross/ReactProject-ToDoList"
-        }
-      ],
-      "tags": ["React"]
     }
   ]
 }
