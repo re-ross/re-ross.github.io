@@ -14,35 +14,23 @@
           "href": "https://reross-financier.herokuapp.com/"
         }
       ],
-      "tags": ["mongodb", "express", "react", "nestjs"]
+      "tags": ["mongodb", "express", "react", "nodejs"]
     },
     {
-      "image": "images/projects/Postify.png",
-      "title": "DevMountain Foundations Capstone",
-      "bodyText": "- Capstone Project: Mock Social Media \n - Stack: Postgresql, Express, React, and Nestjs",
+      "image": "images/projects/Aperture.png",
+      "title": "DevMountain Specializations Capstone",
+      "bodyText": "- Photo sharing app - coded in Typescript \n - Stack: Postgresql, Express, React, and Nodejs",
       "links": [
         {
           "text": "GitHub",
-          "href": "https://github.com/re-ross/FoundationsCapstoneFinal"
-        }
-      ],
-      "tags": ["postgresql", "express", "react", "nestjs"]
-    },
-    {
-      "image": "images/projects/Postigram.png",
-      "title": "Postigram - Photo Gallery App",
-      "bodyText": "- Photo Gallery\n - Stack: React \n - Database created using Firebase",
-      "links": [
-        {
-          "text": "GitHub",
-          "href": "https://github.com/re-ross/Postigram"
+          "href": "https://github.com/re-ross/aperture"
         },
         {
-          "text": "Hosted Site",
-          "href": "https://postigram.netlify.app/"
+          "text": "Demo",
+          "href": "https://share.vidyard.com/watch/b8cbwRiAiwrEbBC2Sk6bbD?"
         }
       ],
-      "tags": ["React", "Firebase"]
+      "tags": ["postgresql", "express", "react", "nodejs", "typescript"]
     },
     {
       "image": "images/projects/RecipeApp.png",
