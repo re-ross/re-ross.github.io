@@ -18,7 +18,7 @@
     },
     {
       "image": "images/projects/Aperture.png",
-      "title": "DevMountain Specializations Capstone",
+      "title": "Aperture",
       "bodyText": "- Photo sharing app - coded in Typescript \n - Stack: Postgresql, Express, React, and Nodejs",
       "links": [
         {
