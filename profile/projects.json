@@ -1,22 +1,6 @@
 {
   "projects": [
     {
-      "image": "images/projects/Financier.png",
-      "title": "Financier - Expense Tracking App",
-      "bodyText": "- Full Stack Application \n - Stack: MongoDB, Express, React, and nodeJS",
-      "links": [
-        {
-          "text": "GitHub",
-          "href": "https://github.com/re-ross/Financier"
-        },
-        {
-          "text": "Hosted Site",
-          "href": "https://reross-financier.herokuapp.com/"
-        }
-      ],
-      "tags": ["mongodb", "express", "react", "nodejs"]
-    },
-    {
       "image": "images/projects/Aperture.png",
       "title": "Aperture",
       "bodyText": "- Photo sharing app - coded in Typescript \n - Stack: Postgresql, Express, React, and Nodejs",
@@ -30,7 +14,39 @@
           "href": "https://share.vidyard.com/watch/b8cbwRiAiwrEbBC2Sk6bbD?"
         }
       ],
-      "tags": ["postgresql", "express", "react", "nodejs", "typescript"]
+      "tags": ["postgresql", "express", "React", "nodejs", "typescript"]
+    },
+    {
+      "image": "images/projects/Financier.png",
+      "title": "Financier",
+      "bodyText": "- Expense Tracking App \n - Stack: MongoDB, Express, React, and nodeJS",
+      "links": [
+        {
+          "text": "GitHub",
+          "href": "https://github.com/re-ross/Financier"
+        },
+        {
+          "text": "Hosted Site",
+          "href": "https://reross-financier.herokuapp.com/"
+        }
+      ],
+      "tags": ["mongodb", "express", "React", "nodejs"]
+    },
+    {
+      "image": "images/projects/trvl.png",
+      "title": "trvl",
+      "bodyText": "- Mock Travel Site",
+      "links": [
+        {
+          "text": "GitHub",
+          "href": "https://github.com/re-ross/react-travel-site"
+        },
+        {
+          "text": "Hosted Site",
+          "href": "https://trvl-indol.vercel.app/"
+        }
+      ],
+      "tags": ["React", "react-router-dom"]
     },
     {
       "image": "images/projects/RecipeApp.png",
