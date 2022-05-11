@@ -1,8 +1,8 @@
 {
   "projects": [
     {
-      "image": "images/projects/Aperture.png",
-      "title": "Aperture",
+      "image": "images/projects/aperture.png",
+      "title": "aperture",
       "bodyText": "- Photo sharing app - coded in Typescript \n - Stack: Postgresql, Express, React, and Nodejs",
       "links": [
         {
@@ -46,7 +46,7 @@
           "href": "https://trvl-indol.vercel.app/"
         }
       ],
-      "tags": ["React", "react-router-dom"]
+      "tags": ["React", "react-router-dom", "React-Boostrap"]
     },
     {
       "image": "images/projects/RecipeApp.png",
