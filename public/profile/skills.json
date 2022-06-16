@@ -1,55 +1,60 @@
 {
-    "intro": "Here are some of the languages, tech, and tools I've used:",
-    "skills": [{
-     
-            "title": "Languages & Databases",
-            "items" : [
-     
-                {
-                    "icon": "images/skills/js.png",
-                    "title": "JavaScript"
-                },
-                {
-                    "icon": "images/skills/typescript.png",
-                    "title": "Typescript"
-                },
-                {
-                    "icon": "images/skills/css.png",
-                    "title": "CSS"
-                },
-                {
-                    "icon": "images/skills/html.png",
-                    "title": "HTML"
-                },
-                {
-                    "icon": "images/skills/postgresql.png",
-                    "title": "Postgresql"
-                }
-        ]},
+  "intro": "Here are some of the languages, tech, and tools I've used:",
+  "skills": [
+    {
+      "title": "Languages & Databases",
+      "items": [
         {
-            "title": "Frameworks & Technologies",
-            "items" : [
-                {
-                    "icon": "images/skills/react.png",
-                    "title": "React"
-                },
-                {
-                    "icon": "images/skills/nodejs.png",
-                    "title": "Nodejs"
-                }
-            ]
+          "icon": "images/skills/js.png",
+          "title": "JavaScript"
         },
         {
-            "title" : "Tools & Platforms",
-            "items": [
-                {
-                    "icon": "images/skills/git.png",
-                    "title": "Git"
-                },
-                {
-                    "icon": "images/skills/docker.png",
-                    "title": "Docker"
-                }
-            ]
+          "icon": "images/skills/typescript.png",
+          "title": "Typescript"
+        },
+        {
+          "icon": "images/skills/css.png",
+          "title": "CSS"
+        },
+        {
+          "icon": "images/skills/html.png",
+          "title": "HTML"
+        },
+        {
+          "icon": "images/skills/postgresql.png",
+          "title": "Postgresql"
+        },
+        {
+          "icon": "images/skills/mongo-db.png",
+          "title": "Mongodb"
+        }
+      ]
+    },
+    {
+      "title": "Frameworks & Technologies",
+      "items": [
+        {
+          "icon": "images/skills/react.png",
+          "title": "React"
+        },
+        {
+          "icon": "images/skills/nodejs.png",
+          "title": "Nodejs"
+        }
+      ]
+    },
+    {
+      "title": "Tools & Platforms",
+      "items": [
+        {
+          "icon": "images/skills/git.png",
+          "title": "Git"
+        },
+        {
+          "icon": "images/skills/docker.png",
+          "title": "Docker"
+        }
+      ]
     }
-]}
+  ]
+}

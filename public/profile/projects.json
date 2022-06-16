@@ -1,9 +1,41 @@
 {
   "projects": [
     {
+      "image": "images/projects/typedolist.png",
+      "title": "Type-do List",
+      "bodyText": "- Todo List App - coded in Typescript \n - Utilizes context for state management",
+      "links": [
+        {
+          "text": "GitHub",
+          "href": "https://github.com/re-ross/TypeDo-list"
+        },
+        {
+          "text": "Hosted Site",
+          "href": "https://type-do-list.netlify.app/"
+        }
+      ],
+      "tags": ["React", "context", "typescript"]
+    },
+    {
+      "image": "images/projects/aperture.png",
+      "title": "aperture",
+      "bodyText": "- Photo sharing app - coded in Typescript \n - Stack: Postgresql, Express, React, and Nodejs",
+      "links": [
+        {
+          "text": "GitHub",
+          "href": "https://github.com/re-ross/aperture"
+        },
+        {
+          "text": "Demo",
+          "href": "https://share.vidyard.com/watch/b8cbwRiAiwrEbBC2Sk6bbD?"
+        }
+      ],
+      "tags": ["postgresql", "express", "React", "nodejs", "typescript"]
+    },
+    {
       "image": "images/projects/Financier.png",
-      "title": "Financier - Expense Tracking App",
-      "bodyText": "- Full Stack Application \n - Stack: MongoDB, Express, React, and nodeJS",
+      "title": "Financier",
+      "bodyText": "- Expense Tracking App \n - Stack: MongoDB, Express, React, and nodeJS",
       "links": [
         {
           "text": "GitHub",
@@ -14,35 +46,23 @@
           "href": "https://reross-financier.herokuapp.com/"
         }
       ],
-      "tags": ["mongodb", "express", "react", "nestjs"]
+      "tags": ["mongodb", "express", "React", "nodejs"]
     },
     {
-      "image": "images/projects/Postify.png",
-      "title": "DevMountain Foundations Capstone",
-      "bodyText": "- Capstone Project: Mock Social Media \n - Stack: Postgresql, Express, React, and Nestjs",
+      "image": "images/projects/trvl.png",
+      "title": "trvl",
+      "bodyText": "- Mock Travel Site",
       "links": [
         {
           "text": "GitHub",
-          "href": "https://github.com/re-ross/FoundationsCapstoneFinal"
-        }
-      ],
-      "tags": ["postgresql", "express", "react", "nestjs"]
-    },
-    {
-      "image": "images/projects/Postigram.png",
-      "title": "Postigram - Photo Gallery App",
-      "bodyText": "- Photo Gallery\n - Stack: React \n - Database created using Firebase",
-      "links": [
-        {
-          "text": "GitHub",
-          "href": "https://github.com/re-ross/Postigram"
+          "href": "https://github.com/re-ross/react-travel-site"
         },
         {
           "text": "Hosted Site",
-          "href": "https://postigram.netlify.app/"
+          "href": "https://trvl-indol.vercel.app/"
         }
       ],
-      "tags": ["React", "Firebase"]
+      "tags": ["React", "react-router-dom", "React-Bootstrap"]
     },
     {
       "image": "images/projects/RecipeApp.png",
@@ -52,18 +72,6 @@
         {
           "text": "GitHub",
           "href": "https://github.com/re-ross/ReactRecipeApp"
-        }
-      ],
-      "tags": ["React"]
-    },
-    {
-      "image": "images/projects/Todo.png",
-      "title": "ToDo List",
-      "bodyText": "- ToDo List Tracking App\n - Made to practice State Management",
-      "links": [
-        {
-          "text": "GitHub",
-          "href": "https://github.com/re-ross/ReactProject-ToDoList"
         }
       ],
       "tags": ["React"]
