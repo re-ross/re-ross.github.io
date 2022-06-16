@@ -1,6 +1,22 @@
 {
   "projects": [
     {
+      "image": "images/projects/typedolist.png",
+      "title": "Type-do List",
+      "bodyText": "- Todo List App - coded in Typescript \n - Utilizes context for state management",
+      "links": [
+        {
+          "text": "GitHub",
+          "href": "https://github.com/re-ross/TypeDo-list"
+        },
+        {
+          "text": "Hosted Site",
+          "href": "https://type-do-list.netlify.app/"
+        }
+      ],
+      "tags": ["React", "context", "typescript"]
+    },
+    {
       "image": "images/projects/aperture.png",
       "title": "aperture",
       "bodyText": "- Photo sharing app - coded in Typescript \n - Stack: Postgresql, Express, React, and Nodejs",
@@ -46,7 +62,7 @@
           "href": "https://trvl-indol.vercel.app/"
         }
       ],
-      "tags": ["React", "react-router-dom", "React-Boostrap"]
+      "tags": ["React", "react-router-dom", "React-Bootstrap"]
     },
     {
       "image": "images/projects/RecipeApp.png",
