@@ -17,6 +17,22 @@
       "tags": ["React", "context", "typescript"]
     },
     {
+      "image": "images/projects/Pokedex.png",
+      "title": "Pokédex",
+      "bodyText": "- Pokédex App - coded in Typescript \n - Utilizes PokéAPI",
+      "links": [
+        {
+          "text": "GitHub",
+          "href": "https://github.com/re-ross/typescript-pokedex"
+        },
+        {
+          "text": "Hosted Site",
+          "href": "https://typescript-pokedex.vercel.app/"
+        }
+      ],
+      "tags": ["React", "typescript", "styled components"]
+    },
+    {
       "image": "images/projects/aperture.png",
       "title": "aperture",
       "bodyText": "- Photo sharing app - coded in Typescript \n - Stack: Postgresql, Express, React, and Nodejs",
